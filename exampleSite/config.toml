@@ -1,4 +1,4 @@
-baseURL = "retro-online.netlify.app"
+baseURL = "https://retro-online.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
