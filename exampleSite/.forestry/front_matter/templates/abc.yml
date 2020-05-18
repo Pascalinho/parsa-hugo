@@ -17,9 +17,3 @@ fields:
 - type: file
   name: image
   label: image
-- type: list
-  name: categories
-  label: categories
-- type: list
-  name: tags
-  label: tags
