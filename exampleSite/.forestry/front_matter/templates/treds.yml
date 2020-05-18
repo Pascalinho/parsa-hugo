@@ -1,4 +1,9 @@
 ---
 label: treds
 hide_body: true
-fields: []
+fields:
+- name: a
+  type: image_gallery
+  config: {}
+  label: a
+  description: b
